@@ -19,7 +19,13 @@ body{
 }
 
 .title{
-	font-size: 6rem;
-	margin: 2rem;
-	padding: 2rem;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 7rem;
+	margin: 1rem;
+	padding: 1rem;
+}
+
+.mission-statement{
+	margin:0 3rem;
 }
