@@ -18,4 +18,3 @@ test:
 
 production:
   <<: *default
-  database: states_at_stake_production

@@ -8,7 +8,7 @@ var simplemaps_usmap_mapdata={
     popups: "detect",
     
     //State defaults
-    state_description: "no data yet available",
+    state_description: "coming soon!",
     state_color: "",
     state_hover_color: "#CCCCCC",
     state_url: "",
@@ -164,7 +164,9 @@ var simplemaps_usmap_mapdata={
     },
     AR: {
       name: "Arkansas",
-      color: "#ED6352"
+      color: "#ED6352",
+      description: '<div id="bar-chart"><div class="graph"><ul class="y-axis"><li><span>1.25M</span></li><li><span>1M</span></li><li><span>750,000</span></li><li><span>500,000</span></li><li><span>250,000</span></li></ul><ul class="x-axis"<li><span>Anti-Choice</span></li><li><span>Pro-Choice</span></li></ul><div class="bars"><div class="bar-group"><div class="bar bar-1 stat-2" style="height: 18%;"><span>NARAL</span></div></div><div class="bar-group"><div class="bar bar-4 stat-1" style="height: 73%;"><span>Pro Life</span></div></div></div></div></div></div>'
+
     },
     MO: {
       name: "Missouri",
@@ -261,7 +263,8 @@ var simplemaps_usmap_mapdata={
     },
     WA: {
       name: "Washington",
-      color: "#577BF2"
+      color: "#577BF2",
+      description: '<div id="bar-chart"><div class="graph"><ul class="y-axis"><li><span>1.25M</span></li><li><span>1M</span></li><li><span>750,000</span></li><li><span>500,000</span></li><li><span>250,000</span></li></ul><ul class="x-axis"<li><span>Anti-Choice</span></li><li><span>Pro-Choice</span></li></ul><div class="bars"><div class="bar-group"><div class="bar bar-1 stat-2" style="height: 83%;"><span>NARAL</span></div></div><div class="bar-group"><div class="bar bar-4 stat-1" style="height: 18%;"><span>Pro Life</span></div></div></div></div></div></div>'
     },
     CA: {
       name: "California",
