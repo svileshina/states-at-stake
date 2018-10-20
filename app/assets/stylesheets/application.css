@@ -14,6 +14,9 @@
  *= require_self
  */
 
+body{
+	font-family: 'Open Sans', sans-serif;
+}
 
 .title{
 	font-size: 6rem;

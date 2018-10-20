@@ -211,8 +211,7 @@ var simplemaps_usmap_mapdata={
     },
     TX: {
       name: "Texas",
-      color: "#ED6352",
-      description: '<ul class="chart"><li><span style="height:5%" title="ActionScript"></span></li><li><span style="height:70%" title="JavaScript"></span></li><li><span style="height:50%" title="CoffeScript"></span></li><li><span style="height:15%" title="HTML"></span></li></ul>'
+      color: "#ED6352"
     },
     NM: {
       name: "New Mexico",
@@ -265,6 +264,7 @@ var simplemaps_usmap_mapdata={
     WA: {
       name: "Washington",
       color: "#577BF2",
+      url: '/washington',
       description: '<div id="bar-chart"><div class="graph"><ul class="y-axis"><li><span>1.25M</span></li><li><span>1M</span></li><li><span>750,000</span></li><li><span>500,000</span></li><li><span>250,000</span></li></ul><ul class="x-axis"<li><span>Anti-Choice</span></li><li><span>Pro-Choice</span></li></ul><div class="bars"><div class="bar-group"><div class="bar bar-1 stat-2" style="height: 83%;"><span>NARAL</span></div></div><div class="bar-group"><div class="bar bar-4 stat-1" style="height: 18%;"><span>Pro Life</span></div></div></div></div></div></div>'
     },
     CA: {
